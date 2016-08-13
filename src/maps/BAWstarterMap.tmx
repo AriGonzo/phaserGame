@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="20" tilewidth="32" tileheight="32" nextobjectid="7">
+ <tileset firstgid="1" name="Grass" tilewidth="32" tileheight="32" tilecount="72">
+  <image source="../../../../../Downloads/tileset/grass-tiles-2-small.png" trans="ff00ff" width="384" height="192"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt08EKgzAQRdFZ1m6t7hUsdKH//3l2IOBLNjHISAv3wAOFrHKJGQAAAAD8v/fJ4R6vk8M96PFb6BFvqUzRI94z7fFdl747+Vb0iOd3PlreQ6foEc9bzJb3GGWKHvG8xWZHDx3v47pPZSVvsdrRY5DxPq7rKytNlveYZHNxlh7tWnusaX6Pg/z7tuIsPdrtdDASUQ==
+  </data>
+ </layer>
+ <imagelayer name="Image Layer 1" x="18" y="390" visible="0">
+  <image source="../assets/braeSprites/braeScale.png"/>
+ </imagelayer>
+ <objectgroup name="Object Layer 1" visible="0">
+  <object id="2" x="1.21981" y="545.255" width="256.16" height="57.941"/>
+  <object id="5" x="384.853" y="384.339" width="255.369" height="64.7415"/>
+  <object id="6" x="736.724" y="256.794" width="316.629" height="61.7053"/>
+ </objectgroup>
+</map>
